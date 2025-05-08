@@ -84,8 +84,8 @@ scanf("%f", &pib2);
 printf("Digite os pontos turisticos: \n");
 scanf("%d", &turisticos2);
 
-densidade = populacao2 / area2;
-pib_capita = pib2 / populacao2;
+densidade2 = populacao2 / area2;
+pib_capita2 = pib2 / populacao2;
 
 printf("\nCarta:2 \n");
 
